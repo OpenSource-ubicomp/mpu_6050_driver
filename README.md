@@ -35,7 +35,7 @@ pip3 install adafruit-blinka
 ```
 2. Move to that directory.
 ```
-src/mpu_6050_driver
+cd scripts
 ```
 3. Run the code
 ```
