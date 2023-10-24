@@ -1,5 +1,14 @@
 # mpu_9250_ros_driver
+
 ROS driver for the **MPU-6050** and **MPU-9250** IMU
+
+Author: Sion Jeon
+
+Both MPU-6050 and MPU-9250 sensors have been confirmed to be operational.
+
+This project serves as a ROS driver for the MPU-6050 and MPU-9250 IMU sensors, and it has been tested to ensure the proper functionality of both sensors. The driver allows you to interface with and utilize data from these sensors seamlessly within a ROS (Robot Operating System) environment.
+
+
 
 ## Project Description
 
