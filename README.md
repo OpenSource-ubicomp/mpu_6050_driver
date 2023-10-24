@@ -24,9 +24,9 @@ This project demonstrates how to use NVIDIA's Jetson AGX Xavier board with 9-axi
 To get started with the project, follow these steps:
 1. git clone
 ```
-
+git clone https://github.com/OpenSource-ubicomp/mpu_9250_driver.git
 ```
-### Test
+### Test(option)
 1. Install the adafruit-blinka library.
 ```
 sudo apt-get update
@@ -42,7 +42,20 @@ src/mpu_6050_driver
 python3 blinkatest.py
 ```
 
-###
+### RUN
+1. Move to directory
+```
+cd workspace
+```
+2. catkin_make
+```
+catkin_make
+```
+3. run
+```
+roslaunch mpu_6050_driver imu.launch
+```
+
 
 
 
