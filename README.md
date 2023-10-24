@@ -8,16 +8,10 @@ This project demonstrates how to use NVIDIA's Jetson AGX Xavier board with 9-axi
 ## Requirements
 
 - NVIDIA Jetson AGX Xavier board
-- MPU-9250 or MPU-6060 gyro sensors
-- [Library Name and Version] - (Link to installation instructions)
+- MPU-9250 or MPU-6050 gyro sensors
 
-## Installation
-
-To get started with the project, follow these steps:
-
-1. Set up the Jetson AGX Xavier board and install any necessary software.
-
-2. [Connect](https://github.com/OpenSource-ubicomp/mpu_9250_driver/blob/master/image/Xavier%20AGX%20pin%20map.png) the MPU-9250 and MPU-6060 gyro sensors to the Jetson AGX Xavier board.
+## Connection
+[Connect](https://github.com/OpenSource-ubicomp/mpu_9250_driver/blob/master/image/Xavier%20AGX%20pin%20map.png) the MPU-9250 and MPU-6060 gyro sensors to the Jetson AGX Xavier board.
    
 | Sensor Pin | Jetson AGX Xavier Pin |
 |------------|------------------------|
@@ -27,6 +21,22 @@ To get started with the project, follow these steps:
 | SDA        | 27                     |
 
 
+## Test
+1. Install the adafruit-blinka library.
+```
+sudo apt-get update
+sudo apt-get install python3-smbus
+pip3 install adafruit-blinka
+```
+2. Move to that directory.
+```
+
+```
 
 
-3. Clone this repository.
+
+
+
+
+
+
