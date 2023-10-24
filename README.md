@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 
 1. Set up the Jetson AGX Xavier board and install any necessary software.
 
-2. Connect the MPU-9250 and MPU-6060 gyro sensors to the Jetson AGX Xavier board.
+2. [Connect](https://github.com/OpenSource-ubicomp/mpu_9250_driver/blob/master/image/Xavier%20AGX%20pin%20map.png) the MPU-9250 and MPU-6060 gyro sensors to the Jetson AGX Xavier board.
    
 | Sensor Pin | Jetson AGX Xavier Pin |
 |------------|------------------------|
