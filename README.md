@@ -20,8 +20,13 @@ This project demonstrates how to use NVIDIA's Jetson AGX Xavier board with 9-axi
 | SCL        | 28                     |
 | SDA        | 27                     |
 
+## Installation
+To get started with the project, follow these steps:
+1. git clone
+```
 
-## Test
+```
+### Test
 1. Install the adafruit-blinka library.
 ```
 sudo apt-get update
@@ -30,8 +35,15 @@ pip3 install adafruit-blinka
 ```
 2. Move to that directory.
 ```
-
+src/mpu_6050_driver
 ```
+3. Run the code
+```
+python3 blinkatest.py
+```
+
+###
+
 
 
 
