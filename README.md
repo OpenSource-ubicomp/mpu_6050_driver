@@ -27,7 +27,6 @@ To get started with the project, follow these steps:
 | SDA        | 27                     |
 
 
-<img src="https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png  width="200" height="400"/>
-![image](https://github.com/jeonsion/tello_ros2/assets/57317636/9e5231a6-a6bb-4539-bbb9-1c8f8adb139a)
+
 
 3. Clone this repository.
