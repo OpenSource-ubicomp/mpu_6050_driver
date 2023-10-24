@@ -1,4 +1,4 @@
-# mpu_9250_ros_driver
+# mpu_6050_ros_driver
 
 ROS driver for the **MPU-6050** and **MPU-9250** IMU
 
