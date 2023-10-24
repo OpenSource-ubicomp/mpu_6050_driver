@@ -2,7 +2,6 @@
 
 ROS driver for the **MPU-6050** and **MPU-9250** IMU
 
-Author: Sion Jeon
 
 Both MPU-6050 and MPU-9250 sensors have been confirmed to be operational.
 
